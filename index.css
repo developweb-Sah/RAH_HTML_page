@@ -1,0 +1,10 @@
+* {
+  margin-left: 5px;
+}
+.date_time {
+  width: 44.5%;
+  display: inline-block;
+}
+.heading_div {
+  width: 90%;
+}
